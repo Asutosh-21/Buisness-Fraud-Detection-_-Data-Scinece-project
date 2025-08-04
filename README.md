@@ -6,24 +6,28 @@
 ![ML](https://img.shields.io/badge/Machine%20Learning-XGBoost%20%7C%20LightGBM-orange)
 
 ## 📌 Project Overview
-This project is an **End-to-End Advanced Fraud Detection System** designed to detect fraudulent financial transactions with **high accuracy**.  
-It includes **data preprocessing**, **feature engineering**, **model training**, **hyperparameter tuning**, **business analytics**, and **visual reporting** — all built for **real-world deployment**.
+This project is an **End-to-End Advanced Fraud Detection System** designed as part of the **INSAID Internship Program** to detect fraudulent financial transactions with **high accuracy**.
 
-The focus is on:
-- **Maximizing Recall** (catching more fraud cases)
-- **Maintaining high ROC AUC**
-- Providing **business insights** for fraud prevention strategies
+It includes:
+- **Data preprocessing & feature engineering**
+- **Model training with multiple algorithms**
+- **Business analytics & insights**
+- **Deployment-ready ML model**
+
+⚠ **Note on Dataset:**  
+The dataset used in this project is **private** and **very large** in size, hence **not uploaded to GitHub**.  
+It will be shared **only on request** and **only to authorized INSAID internship participants**.
 
 ---
 
 ## 📊 Features
 - **Exploratory Data Analysis (EDA)** with visual insights
 - **Feature Engineering** based on domain knowledge
-- **Imbalanced Data Handling** using `scale_pos_weight`
+- **Handling Class Imbalance** using `scale_pos_weight`
 - **Optimized Machine Learning Models** (XGBoost / LightGBM / RandomForest)
 - **Business-Level Insights & Recommendations**
-- **Visualization Dashboard**: fraud trends, correlation heatmaps, top features
-- **Exported Models** ready for deployment with `joblib`
+- **Fraud Trends Analysis**
+- **Model Export** with `joblib`
 
 ---
 
