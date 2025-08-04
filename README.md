@@ -18,6 +18,11 @@ It includes:
 The dataset used in this project is **private** and **very large** in size, hence **not uploaded to GitHub**.  
 It will be shared **only on request** and **only to authorized INSAID internship participants**.
 
+📎 **Sample Dataset for Practice:**  
+If you want to experiment with a smaller dataset, you can use this sample from Kaggle:  
+🔗 [Sample Fraud Dataset on Kaggle](https://www.kaggle.com/code/ashishkumarjayswal/insaid-internship-task-with-froud-dataset/input?select=Fraud.csv)
+
+
 ---
 
 ## 📊 Features
